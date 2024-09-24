@@ -1,3 +1,3 @@
 # goit-markup-hw-01
 
-this is my first project
+This is a markup of a website "web studio" in HTML without an application of any styles or functional layers.
